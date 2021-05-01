@@ -1,0 +1,13 @@
+#Node modules
+node_modules
+
+#Package-lock.json
+*-lock.json
+
+# Environment variable
+.env
+
+.idea
+
+# assets
+assets
